@@ -1,0 +1,20 @@
+{
+    "name": "jose/crud02",
+    "description": "Crud desde cero",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Jose Antonio",
+            "email": "jose1928death@gmail.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\":"src"
+        }
+    },
+    "require": {}
+}
